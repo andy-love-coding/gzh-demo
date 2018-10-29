@@ -1,6 +1,6 @@
 # 微信公众号开发demo
 
-##demo结构
+## demo结构
 ```
 config: 配置文件目录
 curl-demo: curl的演示demo目录
